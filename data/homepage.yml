@@ -64,6 +64,10 @@ service:
   enable: true
   title: Services
   item:
+  - title: Walking
+    icon: ''
+    content: I can walk well. Excelling in distance and often speed as well.
+    highlighted: ''
   - title: UI Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
